@@ -1,0 +1,10 @@
+{
+    "workspace.library": [
+        "C:/Program Files/Neovim/lib/nvim/parser/",
+        "C:/Program Files/Neovim/share/nvim/runtime/",
+        "c:\\Users\\iblame\\.vscode\\extensions\\droidxrx.gameguardian-lua-0.0.5\\EmmyLua"
+    ],
+    "diagnostics.disable": [
+        "inject-field"
+    ]
+}
